@@ -1,0 +1,17 @@
+=== KIỂM TRA CHỮ KÝ PDF ===
+Tệp: D:\PDF_SIGN_PROJECT_\output\BTVN2_signed.pdf
+Thời gian kiểm tra: 2025-10-31 21:47:23.589221
+
+🧾 Thông tin chứng thư người ký:
+  Chủ thể (Subject): Common Name: NGUYEN THI LINH, Organization: MySign, Country: VN
+  SHA1 : 51 F7 07 4B F5 A3 6F D1 88 56 93 FE 21 3C A5 52 76 B5 17 06
+  SHA256: 25 98 8A 33 0A AE 7D 5E 6D FB DD 48 EF 1C 2C D0 90 66 4E 10 1F 5D C4 07 E0 EE 43 47 F2 88
+
+🕒 Thời gian ký (VN): 2025-10-31 21:47:23+07:00
+🔹 SHA-256 digest (trích xuất): 8e7acc7b5cb6b026e17943201a77f8afd59442eb47a0c9c97999ea1299f32990
+✅ File chưa bị chỉnh sửa kể từ khi ký.
+
+✅ Chữ ký HỢP LỆ và tài liệu NGUYÊN VẸN.
+
+=== HOÀN TẤT KIỂM TRA ===
+📄 Log lưu tại: D:\PDF_SIGN_PROJECT_\output\verify_log.txt
