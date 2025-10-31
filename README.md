@@ -84,4 +84,7 @@ python verify_pdf_signature.py
 6. Kiểm tra có bị sửa đổi (so sánh ByteRange)
 ### Kết quả:
 - Xác minh hợp lệ:
+<img width="923" height="664" alt="Screenshot 2025-10-31 175831" src="https://github.com/user-attachments/assets/9d39145b-27f4-4349-a5d8-3a73196d2f39" />
+
+
   
